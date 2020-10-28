@@ -7,7 +7,7 @@ Vorbereitung
 1. generieren einer Textdatei mit zufällig erzeugten Worten in 50 Mb und 9.4Gib
 2. Variante viele verschiedene Worte: generate_words-many.c
 3. Variante zwei verschiedene Worte: generate_words-2.c
-4. Daten ins FAM (Path:/lfs) schreiben via mmap(): writer.c
+
 
 Thrill besitzt eigene Datenstruktur das DIA. Die Daten können mit drei verschiedenen Funktionen eingelesen werden:
 
